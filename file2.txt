@@ -1,1 +1,2 @@
 ini merupakan file 2.
+baris ke 2
